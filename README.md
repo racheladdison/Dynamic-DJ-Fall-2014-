@@ -15,14 +15,14 @@ DDJ.ino: Arduino code that plays music and changes settings based on acceleromet
 
 Demo.pptx: Powepoint demonstrating final functionality of the project
 
-DynamicDJ_report.docx: Documented report of project and process throughout the semester
+DynamicDJReport.docx: Documented report of project and process throughout the semester
 
 FilePlayer.ino: Arduino code that plays music, modified in order to change settings based on accelerometer movement
 
 LibraryChanges.docx: Highlights changes in pre-existing libraries used
 
-Parts and Budjet.xlsx: Spreadsheet of parts needed for the project and the costs associated
+PartsandBudget.xlsx: Spreadsheet of parts needed for the project and the costs associated
 
 ProjectProposal.docx: Document proposing project at the beginning of the semester
 
-outline.docx: Document outlining report (DynamicDJ_report.docx)
+Outline.docx: Document outlining report (DynamicDJ_report.docx)
